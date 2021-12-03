@@ -30,7 +30,7 @@ Bot Owner Only
 ABOUT = """
 ➥ Name :  Auto Filter V3
     
-➥ Creator : <a href='tg://user?id={ADMIN_ID}'>This Person</a>
+➥ Creator : [This Person](tg://user?id={ADMIN_ID})
 
 ➥ Language : Python3
 
