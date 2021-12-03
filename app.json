@@ -83,7 +83,7 @@
         },
         "BOT_USERNAME": {
             "description": "Your Bot Username Without The @",
-            "value": "LuciferMoringstar_Robot"
+            "value": ""
             "required": true
         },
         "COLLECTION_NAME": {
