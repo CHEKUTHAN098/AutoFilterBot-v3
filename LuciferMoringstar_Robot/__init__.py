@@ -30,7 +30,7 @@ Bot Owner Only
 ABOUT = """
 ➥ Name :  Auto Filter V3
     
-➥ Creator : [This Person](tg://user?id={ADMIN_ID})
+➥ Creator : [Ƭʜᴇ Wøℓf [ Verified ]](https://t.me/RGamer_s)
 
 ➥ Language : Python3
 
