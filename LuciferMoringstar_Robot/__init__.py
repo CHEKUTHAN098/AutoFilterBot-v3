@@ -30,7 +30,7 @@ Bot Owner Only
 ABOUT = """
 ➥ Name :  Auto Filter V3
     
-➥ Creator : [Ƭʜᴇ Wøℓf [ Verified ]](https://youtube.com/c/NaughtyPROFESSOR)
+➥ Creator : <a href='tg://user?id={ADMIN_ID}'>This Person</a>
 
 ➥ Language : Python3
 
