@@ -30,13 +30,13 @@ Bot Owner Only
 ABOUT = """
 ➥ Name :  Auto Filter V3
     
-➥ Creator : [Ƭʜᴇ Wøℓf [ Verified ]](https://t.me/RGamer_s)
+➥ Creator : Cheluthan 1.0
 
 ➥ Language : Python3
 
 ➥ Library : Pyrogram Asyncio 1.13.0
 
-➥ Tutorial : [Click Me](https://youtu.be/5hnYOKBzyi8)
+➥ Tutorial : [Click Me]
 
-➥ 📄 Source Code : [Click Here](https://github.com/Team-MasterXBots/AutoFilterBot-v3)
+➥ 📄 Source Code : [Click] (https://github.com/CHEKUTHAN098)
 """
